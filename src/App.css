@@ -1,0 +1,10 @@
+/* Add these in your global CSS file */
+.light-theme {
+    background-color: white;
+    color: black;
+  }
+  
+  .dark-theme {
+    background-color: black;
+    color: white;
+  }
